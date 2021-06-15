@@ -44,6 +44,13 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
      *   Single handedly built mobile interface for Trado global  application alongside  with UI/UX.
     
  
+ ### Used Services
+ 	1. Firebase 
+		* Cloud Messaging
+		* Remote Config
+		* Storage	
+ 	2. Circle CI
+		-- continous integration 
 
 ### What are my plans:
 
