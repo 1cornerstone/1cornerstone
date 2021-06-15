@@ -1,8 +1,7 @@
 
 
 
-### My name is Akintunde Israel Segun, Mobile App developer, I was given birth to on 24th sept 1996,i graduated from  Ladoke Akintola University of Technology 2021, am also a citizen of Nigeria.
-
+### My name is Akintunde Israel Segun,Mobile App developer with solid experience in end-to-end Infrastructure with a strong ability to assess needs, define requirements, develop value-added solutions and execute technical solutions that streamline and improve operational efficiency
 
 ## What I love doing:
 
@@ -22,11 +21,11 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
 
 3. React,Nodejs,Docker,MongoDB:
  
-    * Multiplayer Dice Game using Socket to transport data in realtime      between Player
+	 * Multiplayer Dice Game using Socket to transport data in realtime between Player
 	
 	* Forum backend services,
 
-	* With my understanding in Stream Node JS, have worked on file encryption 	library, with encrypt file content and lock it user defined password,
+	* With my understanding in Stream Node JS, have worked on file encryption library, with encrypt file content and lock it user defined password,
 	
 	* Bitcoin wrapper: with the use of bitcoin-core lib, have built node interface 	for  bitcoin .
 
@@ -42,7 +41,8 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
 
     *   Built Look and feel of calculator using Neumorphism
      *   Built Color Application,
-     *   Single handedly build  mobile interface for Trado global          application along with their UI/UX.
+     *   Single handedly built mobile interface for Trado global  application alongside  with UI/UX.
+    
  
 
 ## What are my plans:
