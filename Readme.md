@@ -3,11 +3,11 @@
 
 ### My name is Akintunde Israel Segun,Mobile App developer with solid experience in end-to-end Infrastructure with a strong ability to assess needs, define requirements, develop value-added solutions and execute technical solutions that streamline and improve operational efficiency
 
-## What I love doing:
+### What I love doing:
 
 I love  programming, have been writing  code now is more than 4years, I moved from software development to mobile development (Java ), also moved to web where I learnt using React, Laravel,javascript ( nodejs,typescript) , Have worked as a backend developer in Trado global  integrated limited using laravel, also a Mobile App developer using Flutter SDk to build cross platform app for the use of Company targeted user. I also love playing lawn tennis and swimming , I do them weekend. 
 
-## Project have worked on:
+### Project have worked on:
 
  1. Using JAVA,
 	   * Task Scheduler:  This schedule workers to day to day activities of     a company .
@@ -45,7 +45,7 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
     
  
 
-## What are my plans:
+### What are my plans:
 
 My plan is become world class developer, devOp
 
