@@ -48,18 +48,20 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
  	1. Firebase 
 		* Cloud Messaging
 		* Remote Config
-		* Storage	
+		* Storage
+		* Firebase Auth (facebook and Google)
  	2. Circle CI
 		-- continous integration 
+	
 
 ### Mobile App Dev Experience:
 Using Flutter :
 
-	Thanks to Google for giving us this framework, i love it and it have become part of me. 
+Thanks to Google for giving us this framework, i love it and it have become part of me. 
 
-		1. With my years of experience i came to notice that there are something Project Manager/ UI&UX Designer / Developer should know. designing may be easy but there is one thing we dont count and it matter
+1. With my years of experience i came to notice that there are something Project Manager/ UI&UX Designer / Developer should know. designing may be easy but there is one thing we dont count and it matter
 
-			- Typography : During design stage ,Designer used to use font that feel okay for him/her without considering if developer can get that exact font to use in designing the mobile interface, i hereby indulge anybody reading this, pls alway tell UI/UX designer to always check Google font site and check the available font, doing this will bring what you design perfectly come through.
+	- Typography : During design stage ,Designer used to use font that feel okay for him/her without considering if developer can get that exact font to use in designing the mobile interface, i hereby indulge anybody reading this, pls alway tell UI/UX designer to always check Google font site and check the available font, doing this will bring what you design perfectly come through.
 
 2. ...
 
