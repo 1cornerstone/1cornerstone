@@ -41,8 +41,16 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
 
     *   Built Look and feel of calculator using Neumorphism
      *   Built Color Application,
-     *   Single handedly built mobile interface for Trado global  application alongside  with UI/UX.
-    
+     *   Single handedly built mobile interface for Trado global  application alongside  with UI/UX designer.
+     
+  Flutter makes building mobile application so easy but As a Mid-Senior flutter developer i dedicated myself to know more how things work in flutter to stand-out in the company am working with.
+  
+  * i have single-handedly develop Calender widget that have year,month,week and day view for production.
+  * also with my experience in flutter have created custom Day Selection widget in flutter.
+  
+  
+   
+  
  
  ### Used Services
  	1. Firebase 
@@ -52,21 +60,18 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
 		* Firebase Auth (facebook and Google)
  	2. Circle CI
 		-- continous integration 
+	3. Github Actions
+	
 	
 
-### Mobile App Dev Experience:
-Using Flutter :
 
-Thanks to Google for giving us this framework, i love it and it have become part of me. 
-
-1. With my years of experience i came to notice that there are something Project Manager/ UI&UX Designer / Developer should know. designing may be easy but there is one thing we dont count and it matter
-
-	- Typography : During design stage ,Designer used to use font that feel okay for him/her without considering if developer can get that exact font to use in designing the mobile interface, i hereby indulge anybody reading this, pls alway tell UI/UX designer to always check Google font site and check the available font, doing this will bring what you design perfectly come through.
-
-2. ...
-
+### Company 
+ *Trado global: Nigeria Real Estate Company *
+ *FluidAngle* 
 
 ### What are my plans:
 
 My plan is become world class Mobile App Developer(MAD), devOp
+
+
 
