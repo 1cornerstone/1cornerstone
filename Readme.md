@@ -46,7 +46,7 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
   Flutter makes building mobile application so easy but As a Mid-Senior flutter developer i dedicated myself to know more how things work in flutter to stand-out in the company am working with.
   
   * i have single-handedly develop Calender widget that have year,month,week and day view for production.
-  * also with my experience in flutter have created custom Day Selection widget in flutter.
+  * also with my experience in flutter have created custom Date Selection widget in flutter.
   
   
    
