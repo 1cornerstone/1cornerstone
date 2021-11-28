@@ -66,9 +66,8 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
 
 
 ### Company 
- *Trado global: Nigeria Real Estate Company *
- 
- * FluidAngle * 
+ * Trado global: Nigeria Real Estate Company 
+ * FluidAngle 
 
 ### What are my plans:
 
