@@ -62,16 +62,10 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
 		-- continous integration 
 	3. Github Actions
 	
-	
 
+### My plans:
 
-### Company 
- * Trado global: Nigeria Real Estate Company 
- * FluidAngle 
-
-### What are my plans:
-
-My plan is become world class Mobile App Developer(MAD), devOp
+My plan is become world class Mobile App Developer, Smart Contract Developer
 
 
 
