@@ -5,12 +5,12 @@
 
 ### What I love doing:
 
-I love  programming, have been writing  code now is more than 4years, I moved from software development to mobile development (Java ), also moved to web where I learnt using React, Laravel,javascript ( nodejs,typescript) , Have worked as a backend developer in Trado global  integrated limited using laravel, also a Mobile App developer using Flutter SDk to build cross platform app for the use of Company targeted user. I also love playing lawn tennis and swimming , I do them weekend. 
+I love  programming, have been writing  code now is more than 5years, I moved from software development to mobile development (Java ), also moved to web where I learnt using React, Laravel,javascript ( nodejs,typescript) , Have worked as a backend developer in Trado global  integrated limited using laravel, also a Mobile App developer using Flutter SDk to build cross platform app for the use of Company targeted user. I also love playing lawn tennis and swimming , I do them weekend. 
 
 ### Project have worked on:
 
  1. Using JAVA,
-	   * Task Scheduler:  This schedule workers to day to day activities of     a company .
+	   * Task Scheduler:  This schedule workers to day to day activities of a company .
 	   * Teacher: this teach child how to write number from 1-1000.
 	   * Hospital, Hotel management System,  during my undergraduate.
 
@@ -49,23 +49,3 @@ I love  programming, have been writing  code now is more than 4years, I moved fr
   * also with my experience in flutter have created custom Date Selection widget in flutter.
   
   
-   
-  
- 
- ### Used Services
- 	1. Firebase 
-		* Cloud Messaging
-		* Remote Config
-		* Storage
-		* Firebase Auth (facebook and Google)
- 	2. Circle CI
-		-- continous integration 
-	3. Github Actions
-	
-
-### My plans:
-
-My plan is become world class Mobile App Developer, Smart Contract Developer
-
-
-
