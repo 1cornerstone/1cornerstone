@@ -1,7 +1,7 @@
 
 
 
-### My name is Akintunde Israel Segun,Mobile App developer with solid experience in end-to-end Infrastructure with a strong ability to assess needs, define requirements, develop value-added solutions and execute technical solutions that streamline and improve operational efficiency
+### My name is Akintunde Israel Segun,Flutter developer with solid experience in end-to-end Infrastructure with a strong ability to assess needs, define requirements, develop value-added solutions and execute technical solutions that streamline and improve operational efficiency
 
 ### What I love doing:
 
